@@ -19,5 +19,8 @@
         }
       ]
     }
-  ]
+  ],
+  "env": {
+    "VITE_API_URL": "https://servicebackend-9fuv.vercel.app"
+  }
 }
